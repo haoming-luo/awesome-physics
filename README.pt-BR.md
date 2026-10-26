@@ -151,6 +151,7 @@ Contribuições são bem-vindas — leia o [CONTRIBUTING.md](CONTRIBUTING.md) e 
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Solucionadores lineares escaláveis e métodos multigrid. `[OS]` `[Free]`
 - [AMReX](https://amrex-codes.github.io/amrex/) - Estrutura de refinamento de malha adaptativa em blocos. `[OS]` `[Free]`
 - [FEniCS](https://fenicsproject.org/) - Solução automatizada de EDPs por elementos finitos. `[OS]` `[Free]`
+- [AgentFEM](https://github.com/haoming-luo/agentfem) - Fluxos locais com FEniCSx para modelagem por elementos finitos, solução e verificação de resultados. `[OS]` `[Free]`
 - [Firedrake](https://www.firedrakeproject.org/) - Estrutura de elementos finitos com geração automática de código. `[OS]` `[Free]`
 - [deal.II](https://www.dealii.org/) - Biblioteca de elementos finitos para malhas adaptativas e alto desempenho. `[OS]` `[Free]`
 - [MFEM](https://mfem.org/) - Biblioteca modular de métodos de elementos finitos. `[OS]` `[Free]`

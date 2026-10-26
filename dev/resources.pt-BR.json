@@ -7,7 +7,7 @@
     "code": "GPL-3.0-or-later"
   },
   "generated_from": "README.pt-BR.md",
-  "count": 657,
+  "count": 658,
   "sections": [
     {
       "title": "Plataformas de Aprendizagem e Cursos",
@@ -782,6 +782,15 @@
           "name": "FEniCS",
           "url": "https://fenicsproject.org/",
           "description": "Solução automatizada de EDPs por elementos finitos.",
+          "tags": [
+            "OS",
+            "Free"
+          ]
+        },
+        {
+          "name": "AgentFEM",
+          "url": "https://github.com/haoming-luo/agentfem",
+          "description": "Fluxos locais com FEniCSx para modelagem por elementos finitos, solução e verificação de resultados.",
           "tags": [
             "OS",
             "Free"

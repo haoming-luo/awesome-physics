@@ -151,6 +151,7 @@ Contributions are welcome — please read [CONTRIBUTING.md](CONTRIBUTING.md) and
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Scalable linear solvers and multigrid methods. `[OS]` `[Free]`
 - [AMReX](https://amrex-codes.github.io/amrex/) - Block-structured adaptive mesh refinement framework. `[OS]` `[Free]`
 - [FEniCS](https://fenicsproject.org/) - Automated finite element solution of PDEs. `[OS]` `[Free]`
+- [AgentFEM](https://github.com/haoming-luo/agentfem) - Local FEniCSx workflows for finite-element modeling, solving, and result verification. `[OS]` `[Free]`
 - [Firedrake](https://www.firedrakeproject.org/) - Finite element framework with automatic code generation. `[OS]` `[Free]`
 - [deal.II](https://www.dealii.org/) - Finite element library for adaptive meshes and high performance. `[OS]` `[Free]`
 - [MFEM](https://mfem.org/) - Modular finite element methods library. `[OS]` `[Free]`

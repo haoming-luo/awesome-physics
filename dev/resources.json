@@ -7,7 +7,7 @@
     "code": "GPL-3.0-or-later"
   },
   "generated_from": "README.md",
-  "count": 657,
+  "count": 658,
   "sections": [
     {
       "title": "Learning Platforms and Courses",
@@ -782,6 +782,15 @@
           "name": "FEniCS",
           "url": "https://fenicsproject.org/",
           "description": "Automated finite element solution of PDEs.",
+          "tags": [
+            "OS",
+            "Free"
+          ]
+        },
+        {
+          "name": "AgentFEM",
+          "url": "https://github.com/haoming-luo/agentfem",
+          "description": "Local FEniCSx workflows for finite-element modeling, solving, and result verification.",
           "tags": [
             "OS",
             "Free"
